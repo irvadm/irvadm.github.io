@@ -1,0 +1,36 @@
+html {
+  font-family: 'Raleway', sans-serif;
+  font-size: 10px;
+  background-color: #D8E2ED;
+}
+
+body {
+  width: 600px;
+  margin: 10px auto;
+  padding: 0 20px 20px 20px;
+  border: 1px solid #D1D3D6;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #93AFCC;
+  text-shadow: 3px 3px 2px #6687A7;
+  /* horiz offset, vert offset, blur radius, color */
+}
+
+p,
+li,
+a {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 280px;
+}
